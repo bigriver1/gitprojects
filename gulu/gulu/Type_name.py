@@ -1,0 +1,1 @@
+type_text = ['mini-articles', 'car', 'listings/t41_713/', 'life', 'education', 'immigration', 'news' ]
